@@ -164,14 +164,14 @@ class ProductDetailScreen extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         Text(
-          'Pickguard Torstein',
+          'Pickguard Nacarado (Pearloid)',
           style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                 fontWeight: FontWeight.bold,
                 color: Colors.black87,
               ),
         ),
         Text(
-          'Para Fender Precision Bass - Tricapa Negro',
+          'Para Fender Precision Bass - White Pearl (Nacarado)',
           style: Theme.of(context).textTheme.titleMedium?.copyWith(
                 color: Colors.grey.shade700,
               ),
